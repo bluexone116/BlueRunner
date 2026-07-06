@@ -113,19 +113,12 @@ Configuration settings are stored automatically and restored when Blue Runner st
 
 ## 🖼️ Screenshots
 
-> Screenshots coming soon.
+![Blue Runner Main Window](docs/images/BlueRunner_App.png)
 
-Place screenshots in:
+![Blue Runner Main Window](docs/images/BlueRunner_Maint.png)
 
-`docs/images/`
+![Blue Runner Main Window](docs/images/BlueRunner_Config.png)
 
-Example:
-
-`docs/images/blue-runner-main.png`
-
-Then add them to this README using:
-
-`![Blue Runner Main Window](docs/images/blue-runner-main.png)`
 
 ---
 
