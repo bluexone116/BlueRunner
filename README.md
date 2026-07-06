@@ -115,9 +115,9 @@ Configuration settings are stored automatically and restored when Blue Runner st
 
 ![Blue Runner Main Window](docs/images/BlueRunner_App.png)
 
-![Blue Runner Main Window](docs/images/BlueRunner_Maint.png)
+![Blue Runner Maintenance Window](docs/images/BlueRunner_Maint.png)
 
-![Blue Runner Main Window](docs/images/BlueRunner_Config.png)
+![Blue Runner Config Window](docs/images/BlueRunner_Config.png)
 
 
 ---
