@@ -1,0 +1,28 @@
+BLUE RUNNER SOFTWARE LICENSE
+
+Copyright (c) 2026 BlueZone. All rights reserved.
+
+Blue Runner is proprietary software provided free of charge for personal, non-commercial use.
+
+Permission is granted to download, install, and use the compiled Blue Runner application for its intended purpose.
+
+You may not:
+
+* Copy, modify, reverse engineer, decompile, or disassemble the software, except where such restriction is prohibited by applicable law.
+* Redistribute, repackage, sell, sublicense, rent, lease, or commercially exploit the software without prior written permission.
+* Claim the software, its source code, branding, graphics, or other included materials as your own work.
+* Use the BlueZone or Blue Runner names, logos, or branding in a way that suggests official endorsement or affiliation without permission.
+
+The software is provided "AS IS", without warranty of any kind, express or implied, including but not limited to warranties of merchantability, fitness for a particular purpose, and non-infringement.
+
+In no event shall the copyright holder or contributors be liable for any claim, damages, data loss, system damage, or other liability arising from the use of or inability to use the software.
+
+Installation and use of Blue Runner is entirely at the user's own risk.
+
+This license does not grant access to or rights in the Blue Runner source code. Source code, development materials, and internal assets remain proprietary and confidential unless explicitly released under a separate license.
+
+For permission requests or other licensing inquiries, contact the BlueZone project through its official community channels.
+
+Blue Runner is an independent community utility and is not affiliated with, endorsed by, or sponsored by Eagle Dynamics SA or The Fighter Collection Limited.
+
+DCS and DCS World are trademarks of Eagle Dynamics SA.
