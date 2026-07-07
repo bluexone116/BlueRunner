@@ -289,22 +289,19 @@ BlueZone develops tools and utilities designed to improve the DCS World experien
 ### BlueZone Tools
 
 * 🚀 **Blue Runner** — Application launcher and DCS utility manager
-* 🎞️ **Blue Replay** — DCS track replay control utility
-* 📊 **BlueReel** — DCS event logging and analysis
-* 🎬 **Blue Director** — Mission and event management tools
 * 🧩 **Blue Mods** — BlueZone DCS modifications and enhancements
+* 📊 **BlueReel** — DCS event logging and analysis
+* 🎞️ **Blue Replay** — DCS track replay control utility
+* 🎬 **Other miscellaneous tools
+
 
 ---
 
 ## 🤝 Support the Project
 
-## 💙 Support BlueZone
+Blue Runner is developed and maintained as a free tool for the DCS community. The goal is simple: make preparing for a flight easier by bringing application launching, DCS maintenance, configuration, and other useful utilities together in one place.
 
-BlueZone is a community-driven project built and maintained by volunteers who share a passion for **DCS World, aviation, multiplayer operations, and building tools that improve the experience for the community**.
-
-Running multiplayer servers, developing and maintaining software, testing new features, and supporting community services all require time and resources to keep BlueZone mission-ready.
-
-If you enjoy the community, fly our missions, or use BlueZone tools and would like to support continued development, your contribution is greatly appreciated—but never expected.
+Development, testing, documentation, and continued improvements all take time and resources. If Blue Runner makes your DCS setup easier and you would like to support its continued development, your contribution is greatly appreciated—but never expected.
 
 ### ☕ [Support on Ko-fi](https://ko-fi.com/bluezone116)
 
@@ -312,9 +309,9 @@ If you enjoy the community, fly our missions, or use BlueZone tools and would li
 
 ### 🚀 [Join us on Patreon](https://www.patreon.com/bluezone116)
 
-Every contribution helps keep the **servers flying, the tools evolving, and new features on the horizon**.
+Every contribution helps support continued development, testing, and future improvements to Blue Runner and other BlueZone tools.
 
-Thank you for being part of BlueZone. 🛩️
+Thank you for using Blue Runner and supporting the BlueZone community. ✈️
 
 
 ---
