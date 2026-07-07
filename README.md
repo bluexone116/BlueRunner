@@ -298,15 +298,24 @@ BlueZone develops tools and utilities designed to improve the DCS World experien
 
 ## 🤝 Support the Project
 
-If Blue Runner has made your DCS setup easier, you can help by:
+## 💙 Support BlueZone
 
-* ⭐ Starring the repository
-* 🐞 Reporting bugs
-* 💡 Suggesting improvements
-* 📣 Sharing Blue Runner with other DCS pilots
-* 🧪 Helping test new releases
+BlueZone is a community-driven project built and maintained by volunteers who share a passion for **DCS World, aviation, multiplayer operations, and building tools that improve the experience for the community**.
 
-Every contribution helps improve Blue Runner and the BlueZone community.
+Running multiplayer servers, developing and maintaining software, testing new features, and supporting community services all require time and resources to keep BlueZone mission-ready.
+
+If you enjoy the community, fly our missions, or use BlueZone tools and would like to support continued development, your contribution is greatly appreciated—but never expected.
+
+### ☕ [Support on Ko-fi](https://ko-fi.com/bluezone116)
+
+### 💙 [Support with PayPal](https://paypal.me/bluezone116)
+
+### 🚀 [Join us on Patreon](https://www.patreon.com/bluezone116)
+
+Every contribution helps keep the **servers flying, the tools evolving, and new features on the horizon**.
+
+Thank you for being part of BlueZone. 🛩️
+
 
 ---
 
