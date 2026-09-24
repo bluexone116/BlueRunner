@@ -296,11 +296,13 @@ Masking is session-only.
 
 # 🖼️ Screenshots
 
-![Blue Runner Main Window](docs/images/BlueRunner_App.png)
+![Blue Runner Main Window](docs/images/Blue Runner About Screen - small.png)
 
-![Blue Runner Maintenance Window](docs/images/BlueRunner_Maint.png)
+![Blue Runner Maintenance Window](docs/images/Blue Runner Maintenance Screen - small.png)
 
-![Blue Runner Config Window](docs/images/BlueRunner_Config.png)
+![Blue Runner Track-Log Window](docs/images/Blue Runner Track-Log screen - small.png)
+
+![Blue Runner Config Window](docs/images/Blue Runner Config Screen - small.png)
 
 ---
 
